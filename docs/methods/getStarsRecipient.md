@@ -10,7 +10,7 @@ Get stars recipient info by username.
 
 | **Parameter**      | **Type**   | **Required**  | **Description**                                 |
 |--------------------|------------|---------------|-------------------------------------------------|
-| `username`          | `string`  | ❌            | Recipient username.                             |
+| `username`          | `string`  | ✅            | Telegram username.                              |
 
 ---
 

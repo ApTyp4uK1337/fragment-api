@@ -10,8 +10,7 @@ Get premium recipient info by username.
 
 | **Parameter**      | **Type**   | **Required**  | **Description**                                 |
 |--------------------|------------|---------------|-------------------------------------------------|
-| `username`          | `string`  | ❌            | Recipient username.                             |
-| `months`            | `int`     | ❌            | Premium subscription duration in months.        |
+| `username`          | `string`  | ✅            | Telegram username.                              |
 
 ---
 

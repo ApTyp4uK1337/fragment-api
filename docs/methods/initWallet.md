@@ -10,7 +10,7 @@ Initialize TON walet.
 
 | **Parameter**      | **Type**   | **Required**  | **Description**                                 |
 |--------------------|------------|---------------|-------------------------------------------------|
-| `mnemonics`        | `array`   | ❌            | Wallet mnemonics.                |
+| `mnemonics`        | `array`    | ✅            | Wallet mnemonics.                |
 
 ---
 

@@ -10,7 +10,7 @@ Get Wallet Balance.
 
 | **Parameter**      | **Type**   | **Required**  | **Description**                                 |
 |--------------------|------------|---------------|-------------------------------------------------|
-| `wallet_address`   | `string`   | ❌            | Wallet Address.                                 |
+| `wallet_address`   | `string`   | ✅            | Wallet Address.                                 |
 | `is_testnet`       | `boolean`  | ❌            | Is testent. Default: `false`.                   |
 
 ---
