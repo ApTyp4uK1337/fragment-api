@@ -8,12 +8,12 @@ Send premium giveaway to channel.
 
 ## 📥 Request parameters
 
-| **Parameter** | **Type** | **Required**  | **Description**                                      |
-|---------------|----------|---------------|------------------------------------------------------|
-| `channel`     | `string` | ✅            | Telegram username or t.me link                       |
-| `quantity`    | `int`    | ✅            | Quantity of subscriptions (from `1` to `24000`)      |
+| **Parameter** | **Type** | **Required**  | **Description**                                             |
+|---------------|----------|---------------|-------------------------------------------------------------|
+| `channel`     | `string` | ✅            | Telegram username or t.me link                              |
+| `quantity`    | `int`    | ✅            | Quantity of subscriptions (from `1` to `24000`)             |
 | `months`      | `int`    | ✅            | Subscription duration in months (available: `3`, `6`, `12`) |
-| `mnemmonics`  | `array`  | ✅            | TON Wallet mnemonics                                 |
+| `mnemmonics`  | `array`  | ✅            | TON wallet mnemonics                                        |
 
 ---
 
