@@ -8,9 +8,9 @@ Get premium giveaway channel.
 
 ## 📥 Request parameters
 
-| **Parameter**      | **Type**   | **Required**  | **Description**                                 |
-|--------------------|------------|---------------|-------------------------------------------------|
-| `channel`          | `string`  | ✅             | Telegram username or t.me link.                 |
+| **Parameter**      | **Type**   | **Required**  | **Description**                 |
+|--------------------|------------|---------------|---------------------------------|
+| `channel`          | `string`  | ✅             | Telegram username or t.me link  |
 
 ---
 
